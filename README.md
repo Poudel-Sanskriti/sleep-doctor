@@ -62,7 +62,12 @@ predicts the class directly. We compared both on the validation set, tuned the f
 depth there, and touched the test set exactly once per final model. We
 interpreted models with permutation feature importance (the default importances
 were misleading — they falsely ranked step count first), verified stability with
-5-fold cross-validation, and audited fairness across occupation and gender. All
+5-fold cross-validation, and audited fairness across occupation and gender.
+After answering the research question, we ran a follow-up extension: we added 13
+lifestyle and context columns (converting text categories to numbers via one-hot
+encoding), deliberately excluded features that are consequences of sleep rather
+than causes (like feeling rested — using them would be circular), and re-ran the
+same train/validate/test discipline, reaching 68% test accuracy (R² 0.60). All
 work was collaborative through 11 reviewed pull requests on GitHub, and results
 were independently reproduced with fresh splits and different random seeds
 before merging.
