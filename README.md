@@ -50,12 +50,15 @@ show no pattern at all — one chart, whole project.*
 
 ## Methodologies <!--- do not change this line -->
 
-This is a **supervised learning** project. We split 100,000 records into
-70% train / 15% validation / 15% test (stratified, fixed seed), then trained two
-models as proposed: **Path A — Linear Regression** takes age, stress, and
-activity as inputs and predicts the continuous 1–10 sleep score, which a simple
-rule buckets into Low / Medium / High; **Path B — Random Forest** classifies the
-bucket directly. We compared both on the validation set, tuned the forest's
+This is a **supervised learning** project. The dataset scores each person's
+sleep quality on a continuous 1–10 scale; we defined the three classes with a
+fixed rule — round the score to the nearest whole number, then cut at
+**≤4 = Low, 5–6 = Medium, ≥7 = High** (41.5% / 44.5% / 14% of people). We split
+100,000 records into 70% train / 15% validation / 15% test (stratified, fixed
+seed), then trained two models as proposed: **Path A — Linear Regression** takes
+age, stress, and activity as inputs and predicts the continuous 1–10 score,
+which that same rule then buckets into a class; **Path B — Random Forest**
+predicts the class directly. We compared both on the validation set, tuned the forest's
 depth there, and touched the test set exactly once per final model. We
 interpreted models with permutation feature importance (the default importances
 were misleading — they falsely ranked step count first), verified stability with
