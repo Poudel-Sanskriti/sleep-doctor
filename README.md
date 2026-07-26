@@ -112,8 +112,9 @@ Kaggle: [Sleep Health & Daily Performance Dataset](https://www.kaggle.com/datase
 
 - Validate the findings on real, non-synthetic sleep data (CDC NHANES / BRFSS
   carry sleep items) — the most valuable possible follow-up.
-- Add measured-sleep features (duration, wake episodes) as a separate
-  wearable-data model (~R² 0.77 in our experiments).
+- Add measured-sleep features (duration, sleep latency, wake episodes) as a
+  separate model — a different use case: *estimating* sleep quality from tracker
+  data rather than *predicting* it from lifestyle choices.
 - Try ordinal models, since Low / Medium / High is an ordered outcome.
 - Close the occupation fairness gap before any real-world use.
 
