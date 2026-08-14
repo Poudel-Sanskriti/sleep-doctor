@@ -418,14 +418,14 @@ Kaggle: [Sleep Health & Daily Performance Dataset](https://www.kaggle.com/datase
 
 ## Authors <!--- do not change this line -->
 
-<div style="display:flex; flex-wrap:wrap; gap:10px; margin:1.25rem 0;">
-  <span style="display:inline-block; padding:0.45rem 0.9rem; background-color:#eef4fd; border:1px solid #c9dcf6; border-radius:1.2rem; color:#1a4c8b; font-weight:600;">Quang Doan</span>
-  <span style="display:inline-block; padding:0.45rem 0.9rem; background-color:#eef4fd; border:1px solid #c9dcf6; border-radius:1.2rem; color:#1a4c8b; font-weight:600;">Shaili Halani</span>
-  <span style="display:inline-block; padding:0.45rem 0.9rem; background-color:#eef4fd; border:1px solid #c9dcf6; border-radius:1.2rem; color:#1a4c8b; font-weight:600;">Nathanael Owusu</span>
-  <span style="display:inline-block; padding:0.45rem 0.9rem; background-color:#eef4fd; border:1px solid #c9dcf6; border-radius:1.2rem; color:#1a4c8b; font-weight:600;">Prevailer Nchekwube</span>
-  <span style="display:inline-block; padding:0.45rem 0.9rem; background-color:#eef4fd; border:1px solid #c9dcf6; border-radius:1.2rem; color:#1a4c8b; font-weight:600;">Sanskriti Poudel</span>
-  <span style="display:inline-block; padding:0.45rem 0.9rem; background-color:#eef4fd; border:1px solid #c9dcf6; border-radius:1.2rem; color:#1a4c8b; font-weight:600;">Alex Saidov</span>
-</div>
+<p style="line-height:2.4; margin:1.25rem 0; color:#1a4c8b; font-weight:600;">
+  <span style="display:inline-block; padding:0.45rem 0.9rem; background-color:#eef4fd; border:1px solid #c9dcf6; border-radius:1.2rem;">Quang Doan</span>,
+  <span style="display:inline-block; padding:0.45rem 0.9rem; background-color:#eef4fd; border:1px solid #c9dcf6; border-radius:1.2rem;">Shaili Halani</span>,
+  <span style="display:inline-block; padding:0.45rem 0.9rem; background-color:#eef4fd; border:1px solid #c9dcf6; border-radius:1.2rem;">Nathanael Owusu</span>,
+  <span style="display:inline-block; padding:0.45rem 0.9rem; background-color:#eef4fd; border:1px solid #c9dcf6; border-radius:1.2rem;">Prevailer Nchekwube</span>,
+  <span style="display:inline-block; padding:0.45rem 0.9rem; background-color:#eef4fd; border:1px solid #c9dcf6; border-radius:1.2rem;">Sanskriti Poudel</span>,
+  <span style="display:inline-block; padding:0.45rem 0.9rem; background-color:#eef4fd; border:1px solid #c9dcf6; border-radius:1.2rem;">Alex Saidov</span>
+</p>
 
 ---
 
