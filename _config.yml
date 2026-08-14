@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman # do not change this line
 
-description: Sleep Doctor — AI4ALL Ignite portfolio project
+title: Sleep Doctor
+description: Predicting sleep quality from lifestyle factors — an AI4ALL Ignite portfolio project
