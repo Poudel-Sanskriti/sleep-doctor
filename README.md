@@ -419,11 +419,11 @@ Kaggle: [Sleep Health & Daily Performance Dataset](https://www.kaggle.com/datase
 ## Authors <!--- do not change this line -->
 
 <p style="line-height:2.4; margin:1.25rem 0; color:#1a4c8b; font-weight:600;">
-  <span style="display:inline-block; padding:0.45rem 0.9rem; background-color:#eef4fd; border:1px solid #c9dcf6; border-radius:1.2rem;">Quang Doan</span>,
-  <span style="display:inline-block; padding:0.45rem 0.9rem; background-color:#eef4fd; border:1px solid #c9dcf6; border-radius:1.2rem;">Shaili Halani</span>,
-  <span style="display:inline-block; padding:0.45rem 0.9rem; background-color:#eef4fd; border:1px solid #c9dcf6; border-radius:1.2rem;">Nathanael Owusu</span>,
-  <span style="display:inline-block; padding:0.45rem 0.9rem; background-color:#eef4fd; border:1px solid #c9dcf6; border-radius:1.2rem;">Prevailer Nchekwube</span>,
-  <span style="display:inline-block; padding:0.45rem 0.9rem; background-color:#eef4fd; border:1px solid #c9dcf6; border-radius:1.2rem;">Sanskriti Poudel</span>,
+  <span style="display:inline-block; padding:0.45rem 0.9rem; background-color:#eef4fd; border:1px solid #c9dcf6; border-radius:1.2rem; margin-right:0.35rem;">Quang Doan</span>
+  <span style="display:inline-block; padding:0.45rem 0.9rem; background-color:#eef4fd; border:1px solid #c9dcf6; border-radius:1.2rem; margin-right:0.35rem;">Shaili Halani</span>
+  <span style="display:inline-block; padding:0.45rem 0.9rem; background-color:#eef4fd; border:1px solid #c9dcf6; border-radius:1.2rem; margin-right:0.35rem;">Nathanael Owusu</span>
+  <span style="display:inline-block; padding:0.45rem 0.9rem; background-color:#eef4fd; border:1px solid #c9dcf6; border-radius:1.2rem; margin-right:0.35rem;">Prevailer Nchekwube</span>
+  <span style="display:inline-block; padding:0.45rem 0.9rem; background-color:#eef4fd; border:1px solid #c9dcf6; border-radius:1.2rem; margin-right:0.35rem;">Sanskriti Poudel</span>
   <span style="display:inline-block; padding:0.45rem 0.9rem; background-color:#eef4fd; border:1px solid #c9dcf6; border-radius:1.2rem;">Alex Saidov</span>
 </p>
 
